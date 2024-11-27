@@ -1,0 +1,38 @@
+/* Element Selector */
+/* h2{
+    color: blue;
+}
+p{
+    background-color: red;
+} */
+
+/* ID Selector */
+
+/* #para1{
+    background-color: green;
+}
+
+#para2{
+    background-color: yellow;
+} */
+
+/* Class Selector */
+
+/* .p1{
+    background-color: green;
+}
+
+.p2{
+    background-color: yellow;
+} */
+
+/* Group Selector */
+
+p,h2{
+    background-color: beige;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
